@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D3283D1B-9191-4D27-9527-8CC01038B3FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Surge</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9F65A476A58933AE6B22EAE730A194955F98FC66</key>
+		<string>github.com:clooth/Surge.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Surge.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9F65A476A58933AE6B22EAE730A194955F98FC66</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:clooth/Surge.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9F65A476A58933AE6B22EAE730A194955F98FC66</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9F65A476A58933AE6B22EAE730A194955F98FC66</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Surge</string>
+		</dict>
+	</array>
+</dict>
+</plist>
