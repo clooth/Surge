@@ -19,6 +19,7 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
+import Accelerate
 
 public func sincos(x: [Double]) -> (sin: [Double], cos: [Double]) {
     var sin = [Double](count: x.count, repeatedValue: 0.0)
