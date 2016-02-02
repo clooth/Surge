@@ -1,0 +1,10 @@
+{
+  "name": "surge",
+  "private": true,
+  "version": "0.0.1",
+  "description": "website",
+  "author": "Nico Hämäläinen <nico@sizeof.io>",
+  "dependencies": {
+    "express": "*"
+  }
+}
